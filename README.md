@@ -8,14 +8,18 @@
 <p align="center">
   <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 </p>
-
+<style>
+  body {
+    font-size: larger;
+  }
+</style>
 
 - 🔭 I’m currently working on **Impedance-Analysis**
 
 - 👯 I’m looking to collaborate on **Physics projects**
 
 - 📫 How to reach me **konstanty.klosiewicz@gmail.com**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
