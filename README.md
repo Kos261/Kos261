@@ -8,17 +8,13 @@
 <p align="center">
   <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 </p>
-<style>
-  body {
-    font-size: larger;
-  }
-</style>
 
-- 🔭 I’m currently working on **Impedance-Analysis**
 
-- 👯 I’m looking to collaborate on **Physics projects**
+- 🔭 I’m currently working on <span style="font-size:larger;">**Impedance-Analysis**</span>
 
-- 📫 How to reach me **konstanty.klosiewicz@gmail.com**
+- 👯 I’m looking to collaborate on <span style="font-size:larger;">**Physics projects**</span>
+
+- 📫 How to reach me <span style="font-size:larger;">**konstanty.klosiewicz@gmail.com**</span>
 
 
 <h3 align="left">Connect with me:</h3>
