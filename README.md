@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Poland</h3>
 
 ![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/kos261/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kos261&theme=onedark)](https://github.com/kos261/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kos261&label=Profile%20views&color=0e75b6&style=flat" alt="kos261" /> </p>
 
