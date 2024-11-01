@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on <span style="font-size:larger;">**Impedance-Analysis**</span>
+- 🔭 I’m currently working on <span style="font-size:larger;">**Instant and Latte language compiler for JVM, LLVM and x86 ASM**</span>
 
 - 👯 I’m looking to collaborate on <span style="font-size:larger;">**Physics projects**</span>
 
