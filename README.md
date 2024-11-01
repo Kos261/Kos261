@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on <span style="font-size:larger;">**Instant and Latte language compiler for JVM, LLVM and x86 ASM**</span>
 
-- 👯 I’m looking to collaborate on <span style="font-size:larger;">**Physics projects**</span>
+- 👯 I’m looking to collaborate on <span style="font-size:larger;">**Physics, Python & C++, Machine learning projects**</span>
 
 - 📫 How to reach me <span style="font-size:larger;">**konstanty.klosiewicz@gmail.com**</span>
 
