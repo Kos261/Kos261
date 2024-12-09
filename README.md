@@ -55,10 +55,3 @@
   <!-- Add additional repositories here -->
 </ul>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kos261&theme=onedark)](https://github.com/kos261/github-profile-trophy)
-
-<!-- Stats Section (Optional) -->
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kos261&show_icons=true&locale=en&layout=compact" alt="kos261" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kos261&show_icons=true&locale=en" alt="kos261" /></p>
--->
