@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Konstanty Kłosiewicz</h1>
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h3 align="center">A passionate software developer from Poland</h3>
 
 <p align="center">
   <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 </p>
 
-- 🔭 I’m currently working on **Instant and Latte language compiler for JVM, LLVM, and x86 ASM**
+- 🔭 I’m currently working on **Plasma observatory misssion simulation, Time series and Machine learning**
 
-- 👯 I’m looking to collaborate on **Physics, Python & C++, and Machine learning projects**
+- 👯 I’m looking to collaborate on **Math, Physics, Python & C++, and Machine learning projects**
 
 - 📫 How to reach me: **konstanty.klosiewicz@gmail.com**
 
