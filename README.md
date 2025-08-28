@@ -77,7 +77,7 @@
   <li><a href="https://github.com/Kos261/ML25">Machine Learning Course MIMUW</a></li>
   <li><a href="https://github.com/Kos261/Chess">Chess</a></li>
   <li><a href="https://github.com/Kos261/Aruco-VisionCBK">Aruco Vision-OpenCV-CBK</a></li>
-  <li><a href=" https://github.com/Kos261/ESATAN-Parser">Esatan-Parser-CBK</a></li>
+  <li><a href="https://github.com/Kos261/ESATAN-Parser">Esatan-Parser-CBK</a></li>
   
  
   <!-- Add additional repositories here -->
