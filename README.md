@@ -1,85 +1,115 @@
 <h1 align="center">Hi 👋, I'm Konstanty Kłosiewicz</h1>
-<h3 align="center">A passionate software developer from Poland</h3>
 
 <p align="center">
-  <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
+  <b>Mathematics • Scientific Computing • Space Engineering • C++ / Python</b>
 </p>
 
-- 🔭 I’m currently working on **Plasma observatory misssion simulation, Time series and Machine learning**
-
-- 👯 I’m looking to collaborate on **Math, Physics, Python & C++, and Machine learning projects**
-
-- 📫 How to reach me: **konstanty.klosiewicz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/kos261" target="_blank">GitHub Profile</a>
-  <!-- Add links to other profiles as needed -->
+<p align="center">
+  <img
+    src="https://icon-marquee.giann.dev/v1/marquee?i=python,numpy,pytorch,qt,cpp,matlab,docker,pandas,r,git"
+    alt="Technology stack"
+    width="100%"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!--   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>  -->
-  <a href="[https://cran.r-project.org/]" target="_blank" rel="noreferrer"> 
-    <img src="https://cran.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="PyQt5" width="40" height="40"/> 
-  </a>
-
-  </a> 
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
-    <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/> 
-  </a>
-
-
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/354240/pytorch.svg" alt="PyTorch" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-
-
-  <a href="https://octave.org/" target="_blank" rel="noreferrer">
-    <img src="https://octave.org/img/octave-logo.svg" alt="python" width="40" height="40"/>
-  </a> 
-
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Beckhoff-Automation-E30613?style=flat-square" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square" />
 </p>
 
-<h3 align="left">My Repositories:</h3>
-<ul>
-  <li><a href="https://github.com/kos261/Instant-Compiler">Instant Compiler (JVM, LLVM, x86 ASM)</a></li>
-  <li><a href="https://github.com/kos261/Latte-Compiler">Latte Compiler</a></li>
-  <li><a href="https://github.com/Kos261/ML25">Machine Learning Course MIMUW</a></li>
-  <li><a href="https://github.com/Kos261/Chess">Chess</a></li>
-  <li><a href="https://github.com/Kos261/Aruco-VisionCBK">Aruco Vision-OpenCV-CBK</a></li>
-  <li><a href="https://github.com/Kos261/ESATAN-Parser">Esatan-Parser-CBK</a></li>
-  
- 
-  <!-- Add additional repositories here -->
-</ul>
+---
 
+## 🛰️ Work at CBK PAN
+
+I work at the **Space Research Centre of the Polish Academy of Sciences (CBK PAN)**, where I develop scientific and engineering software for space-related research.
+
+My current work includes:
+
+- 🌍 **GRAVIQ** — development of software for processing and modelling data from **quantum gravimeters**
+  - C++ computational core
+  - Python API and data processing
+  - gravity corrections and geophysical models
+  - validation against legacy scientific software
+  - Docker-based development and testing
+
+- 🌕 **MOONTEX** — software and experimental infrastructure for studying **lunar regolith interaction with textiles and engineering materials**
+
+- 🛰️ Computer vision and engineering tools for space research, including **ArUco/OpenCV pose estimation**, numerical analysis and scientific data processing.
+
+<p align="center">
+  <a href="https://github.com/CBK-PAN-LMRS/graviq-core">
+    <img src="https://img.shields.io/badge/CBK_PAN-GRAVIQ_Core-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/CBK-PAN-LMRS/graviq-api">
+    <img src="https://img.shields.io/badge/CBK_PAN-GRAVIQ_API-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🔬 Interests
+
+- Numerical methods and scientific computing
+- Hamiltonian systems and symplectic integrators
+- Astrodynamics and space engineering
+- Mathematical modelling
+- C++ and Python
+- Machine Learning
+- Compilers and programming languages
+
+---
+
+## 🚀 Selected Projects
+
+### 🛰️ Space & Scientific Computing
+
+- [**GRAVIQ Core**](https://github.com/CBK-PAN-LMRS/graviq-core)  
+  C++ core for modelling and correcting quantum gravimeter measurements.
+
+- [**GRAVIQ API**](https://github.com/CBK-PAN-LMRS/graviq-api)  
+  Python API, scientific data aggregation and integration with the GRAVIQ computational core.
+
+- [**ArUco Vision CBK**](https://github.com/Kos261/Aruco-VisionCBK)  
+  Computer vision and pose estimation using OpenCV and ArUco markers.
+
+- [**ESATAN Parser CBK**](https://github.com/Kos261/ESATAN-Parser)  
+  Tools for processing engineering data from ESATAN.
+
+### 💻 Compilers & Computer Science
+
+- [**Instant Compiler**](https://github.com/kos261/Instant-Compiler)  
+  Compiler targeting JVM, LLVM and x86 assembly.
+
+- [**Latte Compiler**](https://github.com/kos261/Latte-Compiler)  
+  Compiler implementation for the Latte programming language.
+
+### 🤖 Machine Learning
+
+- [**ML25**](https://github.com/Kos261/ML25)  
+  Machine Learning coursework at MIM UW.
+
+### ♟️ Other
+
+- [**Chess**](https://github.com/Kos261/Chess)
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:konstanty.klosiewicz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-konstanty.klosiewicz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kos261">
+    <img src="https://img.shields.io/badge/GitHub-Kos261-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
